@@ -40,7 +40,7 @@
           <mxGeometry x="120" y="360" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kU76VDTB2WeXlihV-KW7-8" value="" style="html=1;strokeColor=#666666;resizeWidth=1;resizeHeight=1;fillColor=#f5f5f5;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="kU76VDTB2WeXlihV-KW7-7">
-          <mxGeometry width="240" height="110" relative="1" as="geometry">
+          <mxGeometry width="240" height="130" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
