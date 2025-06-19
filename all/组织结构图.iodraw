@@ -130,15 +130,15 @@
           <mxGeometry x="152" y="539" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-39" value="智能云平台" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="151" y="791" width="280" height="128" as="geometry" />
+          <mxGeometry x="151" y="791" width="280" height="93" as="geometry" />
         </mxCell>
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-40" value="" style="html=1;resizeWidth=1;resizeHeight=1;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="B9zJ0vBjGM13yppfw0Zp-39">
-          <mxGeometry width="280" height="110.93333333333334" relative="1" as="geometry">
+          <mxGeometry width="280" height="80.60000000000001" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-42" value="&lt;b&gt;手术示教复盘&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="B9zJ0vBjGM13yppfw0Zp-39">
-          <mxGeometry x="12" y="66" width="101.04" height="25.6" as="geometry" />
+          <mxGeometry x="12" y="47.953125" width="101.04" height="18.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
