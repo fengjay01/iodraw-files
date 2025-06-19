@@ -36,7 +36,7 @@
             <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=280;exitDy=60;exitPerimeter=0;shape=link;" edge="1" parent="1" source="kU76VDTB2WeXlihV-KW7-7">
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=280;exitDy=60;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kU76VDTB2WeXlihV-KW7-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="419.83333333333337" as="targetPoint" />
           </mxGeometry>
