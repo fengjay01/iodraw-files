@@ -155,8 +155,8 @@
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-62" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="795" width="119" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-63" value="&lt;b&gt;核心算法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="798" width="62" height="17" as="geometry" />
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-63" value="&lt;b&gt;核心算法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="795" width="62" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
