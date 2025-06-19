@@ -158,14 +158,14 @@
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-63" value="&lt;b&gt;核心算法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="534" y="797" width="54" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-64" value="&lt;b&gt;MHN网络&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="542.38" y="818" width="109.75" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-65" value="&lt;b&gt;TSTNet网络&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="542" y="852" width="110" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-66" value="&lt;b&gt;SimAM+YOLOv10&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="540.38" y="889" width="113.75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-67" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B9zJ0vBjGM13yppfw0Zp-66" target="B9zJ0vBjGM13yppfw0Zp-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-68" value="&lt;b&gt;SimAM+YOLOv10&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="550.38" y="899" width="113.75" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
