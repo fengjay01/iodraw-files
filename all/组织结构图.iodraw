@@ -36,6 +36,9 @@
             <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="kU76VDTB2WeXlihV-KW7-5" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
