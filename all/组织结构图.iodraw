@@ -129,7 +129,7 @@
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-38" value="&lt;b&gt;加密传输&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="152" y="539" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-39" value="智能云平台" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-39" value="云端处理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="151" y="795" width="280" height="97" as="geometry" />
         </mxCell>
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-40" value="" style="html=1;resizeWidth=1;resizeHeight=1;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="B9zJ0vBjGM13yppfw0Zp-39">
