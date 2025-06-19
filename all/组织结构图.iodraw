@@ -107,13 +107,14 @@
             <Array as="points">
               <mxPoint x="236" y="60" />
               <mxPoint x="256" y="60" />
-              <mxPoint x="256" y="99" />
+              <mxPoint x="256" y="105" />
+              <mxPoint x="236" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.004;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="664.8333333333334" as="targetPoint" />
+            <mxPoint x="406" y="665" as="targetPoint" />
             <mxPoint x="563.8399999999999" y="662.7" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
