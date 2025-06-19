@@ -123,8 +123,8 @@
             <mxGeometry x="491" y="569" width="210" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=0;direction=west;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-17" y="435" width="33" height="161" as="geometry" />
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=19.8;direction=west;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="491" width="37" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
