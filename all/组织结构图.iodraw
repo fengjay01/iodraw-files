@@ -143,10 +143,10 @@
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-45" value="&lt;b&gt;手术示教复盘&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="B9zJ0vBjGM13yppfw0Zp-39">
           <mxGeometry x="146" y="55.70297029702971" width="116.04" height="25.853861386138618" as="geometry" />
         </mxCell>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=10;endSize=5.616666666666667;width=8.333333333333334;startSize=5.616666666666667;startWidth=10;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="B9zJ0vBjGM13yppfw0Zp-39">
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=10;endSize=5.616666666666667;width=8.333333333333334;startSize=5.616666666666667;startWidth=10;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="496.25" y="787" as="sourcePoint" />
-            <mxPoint x="313" y="746" as="targetPoint" />
+            <mxPoint x="299" y="812" as="sourcePoint" />
+            <mxPoint x="295" y="738" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
