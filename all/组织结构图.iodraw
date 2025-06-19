@@ -149,8 +149,8 @@
             <mxPoint x="299" y="728" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="334" y="751" width="40" height="26" as="geometry" />
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-49" value="&lt;b&gt;视频处理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="321" y="751" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
