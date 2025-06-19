@@ -152,9 +152,6 @@
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-49" value="&lt;b&gt;视频处理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="756" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="B9zJ0vBjGM13yppfw0Zp-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="529" y="782" width="126" height="126" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
