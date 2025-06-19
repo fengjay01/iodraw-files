@@ -65,9 +65,9 @@
             <mxPoint x="100" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kU76VDTB2WeXlihV-KW7-24" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=10;endSize=5.616666666666667;width=8.333333333333334;startSize=7.633333333333334;" edge="1" parent="1">
+        <mxCell id="kU76VDTB2WeXlihV-KW7-24" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=10;endSize=5.616666666666667;width=8.333333333333334;startSize=5.616666666666667;startWidth=10;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="440" y="510" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
