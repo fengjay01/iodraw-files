@@ -36,11 +36,12 @@
             <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <object label="" 视频采集="" id="kU76VDTB2WeXlihV-KW7-5">
-          <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=10;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="120" y="360" width="160" height="50" as="geometry" />
-          </mxCell>
-        </object>
+        <mxCell id="kU76VDTB2WeXlihV-KW7-5" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=10;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kU76VDTB2WeXlihV-KW7-6" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
