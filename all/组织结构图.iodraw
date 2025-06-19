@@ -138,7 +138,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B9zJ0vBjGM13yppfw0Zp-42" value="&lt;b&gt;手术示教复盘&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="B9zJ0vBjGM13yppfw0Zp-39">
-          <mxGeometry x="9" y="65" width="101.04" height="26.92" as="geometry" />
+          <mxGeometry x="9" y="58" width="101.04" height="26.92" as="geometry" />
+        </mxCell>
+        <mxCell id="B9zJ0vBjGM13yppfw0Zp-45" value="&lt;b&gt;手术示教复盘&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="859" width="101.04" height="26.92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
